@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(212, 227, 228);
+}
+
+img{
+    height: 50%;
+    width: 50%;
+    align-content: center;
+    padding-left: 30px;
+}
